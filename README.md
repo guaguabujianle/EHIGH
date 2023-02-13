@@ -1,3 +1,6 @@
+## Note
+Implementation of other baselines can be found in https://github.com/guaguabujianle/GIGN  
+
 All data used in this paper are publicly available and can be accessed here:  
 - PDBbind v2016 and v2019: http://www.pdbbind.org.cn/download.php
 - 2013 and 2016 core sets: http://www.pdbbind.org.cn/casf.php
